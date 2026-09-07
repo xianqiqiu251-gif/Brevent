@@ -1,8 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: 💬 使用咨询 / Questions
-    url: https://github.com/brevent/Brevent/discussions
-    about: 使用问题请到 Discussions 讨论，不要提 Issue
-  - name: 📖 Google Play
-    url: https://play.google.com/store/apps/details?id=me.piebridge.brevent
-    about: 下载最新版本
